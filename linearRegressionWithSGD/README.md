@@ -7,5 +7,5 @@ This is the implementation of K fold cross validatio, Double cross validation an
 3. Run the command python3 runner.py to run Double cross validation, and stochastic gradient descent
 
 ## Result:
-The code yields an accuracy of and MSE loss of 110 over the whole testing data.
+The code yields MSE loss of 110 over the whole testing data.
 
