@@ -8,4 +8,4 @@ Download testing and training data from the following links:
 To run the code:
 1. Download the dataset mentioned above into this directory
 2. Install python3.5+, matplotlib and numpy.
-3. run the code python3 softmax_regression.py
+3. Run the code python3 softmax_regression.py
