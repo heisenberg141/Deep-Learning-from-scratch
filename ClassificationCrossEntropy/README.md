@@ -17,7 +17,7 @@ To run the code:
 The code produces an accuracy of 75 to 80%. Below is the visualization of the template learned for each class in the dataset.
 
 
-[Templates](templates.png)
+![Templates](templates.png)
 
 
 
