@@ -17,7 +17,7 @@ To run the code:
 The code produces an accuracy of 88.09%. Below is the visualization of the template learned in the first layer of the network.
 
 
-![Results](result.png)
+![Results](Result.png)
 
 
 

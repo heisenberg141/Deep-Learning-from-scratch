@@ -9,7 +9,7 @@ NUM_OUTPUT = 10
 REGULARIZER = 0.0
 
 def main():
-    # Load training data.
+    # Load the training data.
     # Recommendation: divide the pixels by 255 (so that their range is [0-1]), and then subtract
     # 0.5 (so that the range is [-0.5,+0.5]).
     trainX, testX, trainY, testY = load_data()
