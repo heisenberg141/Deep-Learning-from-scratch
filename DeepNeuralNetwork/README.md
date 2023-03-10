@@ -14,7 +14,8 @@ To run the code:
 3. Run the code python3 softmax_regression.py.
 
 ## Results
-The code produces an accuracy of 88.09%. Below is the visualization of the template learned for each class in the dataset.
+The code produces an accuracy of 88.09%. Below is the visualization of the template learned in the first layer of the network.
+
 
 ![Results](result.png)
 
