@@ -158,7 +158,7 @@ def test_model(model,X,Y):
     Y_hat = temp/np.sum(temp, axis = 0)
 
     log_y_hat = np.log(Y_hat)
-    CE = -np.sum(Y*log_y_hat)/Y.shape[0]
+    CE = -np.sum(Y*log_y_hat)/Y.shape[1]
     print(f"\tCE: {CE}")
     correct = 0
     total = 0
